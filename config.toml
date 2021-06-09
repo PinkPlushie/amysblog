@@ -1,14 +1,14 @@
 theme = ["noteworthy"]
 
-baseURL = "https://blog.brennan.sh/"
+baseURL = "https://pinkplushie.github.io/amysblog/"
 languageCode = "en-us"
-title = "0x7CC"
+title = "Gorm Ros"
 
 enableRobotsTXT = true
 summaryLength = 20 # Configure how long the post summary should be on the homepage.
 
 [author]
-	name = "Brennan"
+	name = "Amelia"
 
 [markup]
   [markup.tableOfContents]
@@ -22,22 +22,13 @@ summaryLength = 20 # Configure how long the post summary should be on the homepa
 	description = "Travel, Food, Tech, and Geodesy!"
 
   # Main
-  email = "emailto:brennan.mcdonald.mail@gmail.com"
-  twitter = "https://twitter.com/bmickeydonald"
-  instagram = "https://instagram.com/brennanmcd"
-  linkedin = "https://linkedin.com/in/brennan-mcdonald"
+  twitter = "https://twitter.com/EimileRos"
 
   # Programming
-  github = "https://github.com/brennanmcdonald"
+  github = "https://github.com/PinkPlushie"
 
 # Menu links along the sidebar navigation.
 
-[[menu.main]]
-  name = "My Personal Site"
-  identifier = "homepage"
-  url = "https://brennan.sh"
-	weight = 1
-  
 [[menu.main]]
 	identifier = "about"
 	name = "About"
