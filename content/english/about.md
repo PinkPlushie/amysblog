@@ -29,6 +29,6 @@ kind words.
 
 I hope you enjoy my work going forward. If you would like to contact me, my DMs are open on my [twitter](https://twitter.com/EimileRos).
 
-![Example image](/static/caelo1.jpg)
+![My adorable cat](/img/caelo1.jpg)
 
 
