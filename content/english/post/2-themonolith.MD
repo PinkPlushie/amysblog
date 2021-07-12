@@ -2,7 +2,7 @@
 author = "Amelia"
 title = "My Brief Thoughts on The Monolith"
 date = "2021-07-12"
-description = "Some quick thoughts on the phenomenon in discourse around many topics I call The Monolith"
+description = "Some quick thoughts on the Monolith"
 tags = [
 	"gormros",
 	"monolith",
