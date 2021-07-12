@@ -34,7 +34,7 @@ Who knows, some day I may even succeed.
 
 +++
 
-Thank you for reading! Currently the website does not have a contact page but I am looking into setting that up. For now you can let me know your thoughts on my [twitter](https://twitter.com/Eimileros). I'd love to know what everyone thought! If you want to contact me privately you can either DM me on twitter, or send me an email at GormRos@Protonmail.com. Please note the Arabic version of the website is not currently set up. It has limited functionality at the moment. It will take me a while to figure out how to get everything working there, and even longer to begin posting in Arabic, as I cannot write in it, and so I'll be fairly dependent on translation. 
+Thanks for reading! Currently the website does not have a contact page but I am looking into setting that up. For now you can let me know your thoughts on my [twitter](https://twitter.com/Eimileros). I'd love to know what everyone thought! If you want to contact me privately you can either DM me on twitter, or send me an email at GormRos@Protonmail.com. Please note the Arabic version of the website is not currently set up. It has limited functionality at the moment. It will take me a while to figure out how to get everything working there, and even longer to begin posting in Arabic, as I cannot write in it, and so I'll be fairly dependent on translation. 
 
 Have a great week!
 
